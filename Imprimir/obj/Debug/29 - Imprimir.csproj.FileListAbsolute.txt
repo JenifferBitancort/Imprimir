@@ -1,0 +1,33 @@
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.exe.config
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\_29___Imprimir.Form1.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\_29___Imprimir.Properties.Resources.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Projetos\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.exe.config
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\_29___Imprimir.Form1.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\_29___Imprimir.Properties.Resources.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.exe.config
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\bin\Debug\29 - Imprimir.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\_29___Imprimir.Form1.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\_29___Imprimir.Properties.Resources.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\29 - Imprimir\29 - Imprimir\obj\Debug\29 - Imprimir.pdb
